@@ -1,3 +1,4 @@
 # Data
 *.zip
 data/
+notebooks/.ipynb_checkpoints/
