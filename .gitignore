@@ -2,3 +2,4 @@
 *.zip
 data/
 notebooks/.ipynb_checkpoints/
+.virtual_documents/
